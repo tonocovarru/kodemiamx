@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 741D-BAFD
+
+ Directory of C:\Users\JoseAntonioCovarrubi\kodemia\ignorar
+
+04/01/2019  09:12 PM    <DIR>          .
+04/01/2019  09:12 PM    <DIR>          ..
+04/01/2019  09:12 PM               413 dos.txt
+04/01/2019  09:12 PM                 0 tres.txt
+04/01/2019  09:12 PM               365 uno.txt
+               3 File(s)            778 bytes
+               2 Dir(s)  103,068,184,576 bytes free
